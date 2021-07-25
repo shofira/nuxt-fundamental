@@ -1,23 +1,24 @@
 <template>
   <div class="Hero container">
     <div class="text-container">
-      <h1 class="header">Find your Fire Extinguisher</h1>
+      <h1 class="header">
+        Find your Fire Extinguisher
+      </h1>
       <p class="snippet">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iusto illum quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!
       </p>
-      <button class="button btn">Start Looking</button>
+      <button class="button btn">
+        Start Looking
+      </button>
     </div>
     <img src="~assets/svg/fire-extinguisher.svg" alt="fire extinguisher">
   </div>
 </template>
 
-<script>
-</script>
-
 <style scoped>
   .Hero {
-        height: 50vh;
-        position: relative;
+        /* height: 50vh; */
+        /* position: relative; */
         display: flex;
         padding: 5rem 0;
         align-items: flex-start;
